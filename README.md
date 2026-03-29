@@ -114,3 +114,17 @@ This model helps organizations:
 ---
 
 ## 📁 Project Structure
+├── data/
+├── notebooks/
+├── plots/
+├── Employee_Attrition_Model.ipynb
+├── README.md
+├── requirements.txt
+
+
+---
+
+## 🙌 Conclusion
+This project demonstrates how machine learning can be used to solve real-world business problems. The model provides valuable insights that help organizations improve employee retention and overall performance.
+
+---
